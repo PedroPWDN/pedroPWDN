@@ -21,7 +21,7 @@
 
 ###
 
-<h3 data-importer="text" align="center">Olá meu nome é Pedro William, estudante de Gestão da Técnologia da Informação pea FATEC CATANDUVA, com foco em desenvolvimento de software. Atualmente estudando Java, React, Spring Framework, Progress 4gl e Banco de Dados.  Sempre buscando aprendizado constante!</h3>
+<h3 data-importer="text" align="center">Estudante de Gestão da Tecnologia da Informação na FATEC Catanduva com foco em desenvolvimento de software. Tenho experiência e estudos ativos em Java, React, Spring Boot, Progress 4GL e Bancos de Dados. Busco sempre evoluir e aprender novas tecnologias!</h3>
 
 ###
 
